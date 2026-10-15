@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycahce__/
+
+#archivo de iso y vs code
+.DS_Store
+.vscode/
+
+#Datos pesados locales (los datos se descargan o documentan) 
+data/*.cvs
